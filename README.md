@@ -1,5 +1,5 @@
 <strong>Aseprite Big Sur Icon</strong><br>
-Replacement icon for Aseprite that match macOS Big Sur.<br>
+Replacement icon for Aseprite that matches macOS Big Sur.<br>
 <img src="https://github.com/dominickjohn/aseprite-big-sur-icon/raw/main/Icon-Preview.png?raw=true"/><br><br>
 <strong>To Install:</strong>
 - Download the <a target="_blank" href="https://github.com/dominickjohn/aseprite-big-sur-icon/raw/main/AsepriteSurIcon.icns">Asesprite Icon</a> .icns file.
